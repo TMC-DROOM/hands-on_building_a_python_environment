@@ -2,7 +2,7 @@
   <br>
   <img src="img/01_logo/LOGO_D-ROOM.jpg" alt="D-ROOM_LOGO" width="200">
   <br>
-  教えないラズパイ講座
+  Python環境構築ハンズオン
   <br>
 </h1>
 
