@@ -21,4 +21,4 @@
 This Program is under [MIT license](https://en.wikipedia.org/wiki/MIT_License).
 
 ## 詳細
-参考：[Python環境構築ハンズオン2024.pdf.pdf](./Python環境構築ハンズオン2024.pdf.pdf)
+参考：[Python環境構築ハンズオン2024.pdf](./Python環境構築ハンズオン2024.pdf)
